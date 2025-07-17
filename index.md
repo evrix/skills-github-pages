@@ -36,7 +36,7 @@ Il linguaggio `HTML` non ha nessuna di queste caratteristiche ed è definibile l
 
 ### sviluppi
 Nel tempo sono stati affiancati all'<code>HTML</code> due altri linguaggi:
- - [`CSS`]: https://www.w3schools.com/css/css_intro.asp]
+ - [`CSS`]: https://www.w3schools.com/css/css_intro.asp
     i `CSS` ossia `Cascading Style Sheets`, in italiano `Fogli di Stile a Cascata` servono a determinare lo stile di visualizzazione del documento ed ad implementarne la struttura grafica;
  - [`JavaScript`]: https://www.w3schools.com/js/default.asp
     il `JavaScript`serve ad effettuare a livello locale, ossia nel browser dell'utente, operazioni che, prima della sua introduzione, venivano effettuate in remoto, ossia, con qualche approssimanzione, nella macchina che ospita il server web.
