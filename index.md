@@ -36,16 +36,10 @@ Il linguaggio <code>HTML</code> non ha nessuna di queste caratteristiche ed è d
 
 ### sviluppi
 Nel tempo sono stati affiancati all'<code>HTML</code> due altri linguaggi:</p>
-<dl>
-  <dt><a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><code>CSS</code></a></dt>
-    <dd>
-        i <code>CSS</code> ossia <code>Cascading Style Sheets</code>, in italiano <code>Fogli di Stile a Cascata</code> servono a determinare lo stile di visualizzazione del documento ed ad implementarne la struttura grafica;
-    </dd>
-    <dt><a href="https://www.w3schools.com/js/default.asp" target="_blank"><code>JavaScript</code></a></dt>
-    <dd>
-      il <code>JavaScript</code> serve ad effettuare a livello locale, ossia nel browser dell'utente, operazioni che, prima della sua introduzione, venivano effettuate in remoto, ossia, con qualche approssimanzione, nella macchina che ospita il server web.
-    </dd>
-</dl>
+ - [`CSS`]: https://www.w3schools.com/css/css_intro.asp]
+    i `CSS` ossia `Cascading Style Sheets`, in italiano `Fogli di Stile a Cascata` servono a determinare lo stile di visualizzazione del documento ed ad implementarne la struttura grafica;
+ - [`JavaScript`]: https://www.w3schools.com/js/default.asp
+    il `JavaScript`serve ad effettuare a livello locale, ossia nel browser dell'utente, operazioni che, prima della sua introduzione, venivano effettuate in remoto, ossia, con qualche approssimanzione, nella macchina che ospita il server web.
 
  ## addenda
- - <a href="https://web.archive.org/web/20070812133549/http://zircon.mcli.dist.maricopa.edu/writinghtml_it/tut/index.html" target="_blank">writing html</a></li>
+ - [`writing html`]: https://web.archive.org/web/20070812133549/http://zircon.mcli.dist.maricopa.edu/writinghtml_it/tut/index.html
