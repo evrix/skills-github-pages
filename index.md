@@ -42,4 +42,4 @@ Nel tempo sono stati affiancati all'<code>HTML</code> due altri linguaggi:
     il `JavaScript`serve ad effettuare a livello locale, ossia nel browser dell'utente, operazioni che, prima della sua introduzione, venivano effettuate in remoto, ossia, con qualche approssimanzione, nella macchina che ospita il server web.
 
  ## addenda
- - [`writing html`]: 
+ - [`writing html`]: https://web.archive.org/web/20070812133549/http://zircon.mcli.dist.maricopa.edu/writinghtml_it/tut/index.html
